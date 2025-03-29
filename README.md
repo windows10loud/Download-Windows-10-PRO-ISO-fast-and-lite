@@ -13,13 +13,14 @@ In summary, this customized version of Windows 10 is perfect for those seeking a
 
 Sure! Here’s a step-by-step guide on how to install Windows 10 from a USB flash drive using Rufus:
 
-💻How to Install Windows 10 from USB Using Rufus💻
+💻<b>How to Install Windows 10 from USB Using Rufus<b>💻
 
-Requirements:
+<b>Requirements:<b><b>
 
-A USB flash drive (at least 8 GB).
+<blockquote>
 A Windows 10 ISO file.
 Rufus software (you can download it from the official Rufus website).
+</blockquote>blockquote>
 Steps:
 
 Download Windows 10 ISO:
@@ -41,6 +42,7 @@ Configure Partition Scheme:
 
 For most modern systems, choose "GPT" for UEFI systems. If you are using an older system, select "MBR" for BIOS.
 Ensure the "File system" is set to "NTFS."
+
 Start the Process:
 
 Click on the "Start" button. A warning will pop up indicating that all data on the USB drive will be erased. Make sure you have backed up any important data.
