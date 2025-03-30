@@ -3,7 +3,7 @@
 
 Windows 10 is a versatile operating system that combines the familiarity of previous versions with modern enhancements tailored for both home and professional users. This particular build stands out by offering a streamlined experience that prioritizes user convenience and customization. With its sleek interface, users can easily navigate through their tasks, making it an ideal choice for those who value efficiency and simplicity.
 
-<a href="https://rufus.ie/en/"official Rufus website</a>
+<a href="https://rufus.ie/en/">official Rufus website</a>
 
 One of the most notable features of this build is the absence of Windows Defender and other standard applications that often come pre-installed. This means users can enjoy a clean slate without the distractions of unnecessary software. The removal of these built-in applications allows for a more personalized computing experience, enabling users to install their preferred security solutions and utilities without interference.
 
@@ -23,7 +23,7 @@ Here’s a step-by-step guide on how to install Windows 10 from a USB flash driv
 
  <ul>
   <li>A Windows 10 ISO file.</li>
-  <li>Rufus software (you can take the Rufus program - it is in the zip archive with the ISO image or download it from the <a href="https://rufus.ie/en/"official Rufus website</a>).</li>
+  <li>Rufus software (you can take the Rufus program - it is in the zip archive with the ISO image or download it from the <a href="https://rufus.ie/en/">official Rufus website</a>).</li>
 </ul> 
 </blockquote>
 Steps:
