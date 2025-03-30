@@ -15,12 +15,15 @@ Sure! Here’s a step-by-step guide on how to install Windows 10 from a USB flas
 
 💻<b>How to Install Windows 10 from USB Using Rufus<b>💻
 
-<b>Requirements:<b><b>
+<b>Requirements:</b>
 
 <blockquote>
-A Windows 10 ISO file.
-Rufus software (you can download it from the official Rufus website).
-</blockquote>blockquote>
+
+ <ul>
+  <li>A Windows 10 ISO file.</li>
+  <li>Rufus software (you can download it from the official Rufus website).</li>
+</ul> 
+</blockquote>
 Steps:
 
 Download Windows 10 ISO:
