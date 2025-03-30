@@ -3,7 +3,7 @@
 
 Windows 10 is a versatile operating system that combines the familiarity of previous versions with modern enhancements tailored for both home and professional users. This particular build stands out by offering a streamlined experience that prioritizes user convenience and customization. With its sleek interface, users can easily navigate through their tasks, making it an ideal choice for those who value efficiency and simplicity.
 
-<h2>💽Download Windows 10 ISO file💽<h2>
+<h2>💽Download Windows 10 ISO file💽</h2>
   <ul>
   <li>You can download the torrent file in the list of files under the profile name or from file sharing:</li>
   <li>Mega <a href="https://mega.nz/file/HlIhCKiB#3Pxt6m7DkReA6GHNPIl8i5UO4GlT1piNGetsoYJEFwE">link</a></li>
