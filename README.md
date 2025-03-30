@@ -6,9 +6,9 @@ Windows 10 is a versatile operating system that combines the familiarity of prev
 <h2>💽Download Windows 10 ISO file💽</h2>
   <ul>
   <li>You can download the torrent file in the list of files under the profile name or from file sharing:</li>
-  <li>Mega <a href="https://mega.nz/file/HlIhCKiB#3Pxt6m7DkReA6GHNPIl8i5UO4GlT1piNGetsoYJEFwE">link</a></li>
-  <li>Google Drive <a href="https://drive.google.com/file/d/1ypJw7RxMw65obt7L6s7Ru86SIs4MAotw/view">link</a></li>
-  <li>Mediafire <a href="https://www.mediafire.com/file/m8flu56e4spinmj/Windows_10_PRO_x64.zip/file">link</a></li>
+  <li>Mega <a target="_blank" href="https://mega.nz/file/HlIhCKiB#3Pxt6m7DkReA6GHNPIl8i5UO4GlT1piNGetsoYJEFwE">link</a></li>
+  <li>Google Drive <a target="_blank" href="https://drive.google.com/file/d/1ypJw7RxMw65obt7L6s7Ru86SIs4MAotw/view">link</a></li>
+  <li>Mediafire <a target="_blank" href="https://www.mediafire.com/file/m8flu56e4spinmj/Windows_10_PRO_x64.zip/file">link</a></li>
 </ul>
 
 📀One of the most notable features of this build is the absence of Windows Defender and other standard applications that often come pre-installed. This means users can enjoy a clean slate without the distractions of unnecessary software. The removal of these built-in applications allows for a more personalized computing experience, enabling users to install their preferred security solutions and utilities without interference.
@@ -29,7 +29,7 @@ Windows 10 is a versatile operating system that combines the familiarity of prev
 
  <ul>
   <li>A Windows 10 ISO file.</li>
-  <li>Rufus software (you can take the Rufus program - it is in the zip archive with the ISO image or download it from the <a href="https://rufus.ie/en/">official Rufus website</a>).</li>
+  <li>Rufus software (you can take the Rufus program - it is in the zip archive with the ISO image or download it from the <a target="_blank" href="https://rufus.ie/en/">official Rufus website</a>).</li>
 </ul> 
 </blockquote>
 Steps:
